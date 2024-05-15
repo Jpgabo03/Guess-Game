@@ -1,0 +1,7 @@
+jp,1,easy
+paul,4,easy
+ez,7,easy
+medium,8,medium
+wers,9,easy
+deym,10,easy
+wars,12,easy
